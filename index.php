@@ -6,11 +6,6 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>The Toppers..!</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="gettemplates.co" />
-
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -21,11 +16,9 @@
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
-
-	<link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Themify Icons-->
 	<link rel="stylesheet" href="css/themify-icons.css">
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -38,6 +31,8 @@
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 
+
+
         <!-- Theme style  -->
 	<link rel="stylesheet" href="css/style.css">
 
@@ -47,6 +42,7 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+
 
 	</head>
 	<body>
@@ -95,9 +91,14 @@
 							</ul>
 						</li>
 						<li><a href="portfolio.php">Portfolio</a></li>
+
 						<li><a href="contact.php">Contact</a></li>
-                        <li><a href="login.php">Login / signup</a></li>
-					</ul>
+                        <li><a href="login.php">Login</a></li>
+
+
+                    </ul>
+
+
 				</div>
 			</div>
 			
@@ -167,33 +168,43 @@
                         How Toppers works
                     </h1>
                 </div>
+                <div class="row">
                 <div class="aboutus-home-box2">
+                    <div class="col-md-3">
                     <img src="images/aboutus/service.png" alt="service" class="img-responsive"/>
                     <h2>
                         <span>Select Services</span><br/>
                         Choose from a wide range of beauty services offered directly to your doorstep.
                     </h2>
+                    </div>
                 </div>
                 <div class="aboutus-home-box3">
+                    <div class="col-md-3">
                     <img src="images/aboutus/date.png" alt="date icon image" class="img-responsive"/>
                     <h2>
                         <span>Pick Date and Time</span><br/>
                         Book beauty sessions at your convenience, anytime and anywhere in Bhuj.
                     </h2>
+                    </div>
                 </div>
                 <div class="aboutus-home-box4">
+                    <div class="col-md-3">
                     <img src="images/aboutus/receive.png" alt="recieve" class="img-responsive"/>
                     <h2>
                         <span>Receive Confirmation</span><br/>
                         Upon booking, you'll immediately receive confirmation with relevant details.
                     </h2>
+                    </div>
                 </div>
                 <div class="aboutus-home-box5">
+                    <div class="col-md-3">
                     <img src="images/aboutus/enjoy.png" alt="pamper yourself" class="img-responsive"/>
                     <h2>
                         <span>Enjoy the Experience</span><br/>
                         Relax and enjoy the pampering because ladies, you deserve it.
                     </h2>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -293,7 +304,7 @@
 						<span class="icon">
 							<i class="ti-settings"></i>
 						</span>
-						<span class="counter js-counter" data-from="0" data-to="22070" data-speed="5000" data-refresh-interval="50">1</span>
+						<span class="counter js-counter" data-from="0" data-to="22070" data-speed="5000" data-refresh-interval="50 ">1</span>
 						<span class="counter-label">Creativity Fuel</span>
 
 					</div>
@@ -380,6 +391,7 @@
 							<li><a href="contact.php">Contact us</a></li>
 							<li><a href="#">Terms of services</a></li>
 							<li><a href="about.php">About us</a></li>
+                            <li><a href="admin.php">Administrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -393,7 +405,7 @@
 							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
 						</ul>
 					</div>
-				</div>
+</div>
 
 			</div>
 
@@ -440,6 +452,7 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
-	</body>
+
+    </body>
 </html>
 

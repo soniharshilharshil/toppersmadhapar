@@ -40,9 +40,6 @@
 
     <link rel="stylesheet" href="css/magnific-popup.css">
 
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-
 
     <!-- Owl Carousel  -->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -156,6 +153,7 @@
     </div>
 
 
+
     <footer id="gtco-footer" role="contentinfo">
         <div class="gtco-container">
             <div class="row row-p	b-md">
@@ -176,6 +174,7 @@
                             <li><a href="contact.php">Contact us</a></li>
                             <li><a href="#">Terms of services</a></li>
                             <li><a href="about.php">About us</a></li>
+                            <li><a href="admin.php">Administrator</a></li>
                         </ul>
                     </div>
                 </div>
@@ -213,7 +212,6 @@
         </div>
     </footer>
 </div>
-
 <div class="gototop js-top">
     <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 </div>

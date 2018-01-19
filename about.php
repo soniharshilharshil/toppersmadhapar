@@ -21,8 +21,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
-	
+
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -113,7 +112,7 @@
 					<div class="display-t">
 						<div class="display-tc">
 							<h1 class="animate-box" data-animate-effect="fadeInUp">About Us</h1>
-							<h2 class="animate-box" data-animate-effect="fadeInUp">About what Toppers Salon is <em>by</em> <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a></h2>
+							<h2 class="animate-box" data-animate-effect="fadeInUp">About what Toppers Salon is <em>by</em>The toppers..!</a></h2>
 						</div>
 					</div>
 				</div>
@@ -177,7 +176,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2>Meet The Team</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p>To meet the our master blaster person who are the left and right hand to toppers family salon </p>
 				</div>
 			</div>
 
@@ -187,8 +186,8 @@
 				<div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
 					<div class="gtco-staff">
 						<img src="images/person_1.jpg" alt="Free HTML5 Templates by gettemplates.co">
-						<h3>Jean Smith</h3>
-						<strong class="role">Web Designer</strong>
+						<h3>MR SANJAY </h3>
+						<strong class="role">HAIR ARTITS</strong>
 						<p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
 						<ul class="gtco-social-icons">
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -281,37 +280,6 @@
 		</div>
 	</div>
 
-	<div id="gtco-subscribe">
-		<div class="gtco-container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-12">
-					<form class="form-inline">
-						<div class="col-md-4 col-sm-4">
-							<div class="form-group">
-								<label for="email" class="sr-only">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Your Email">
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4">
-							<div class="form-group">
-								<label for="name" class="sr-only">Name</label>
-								<input type="text" class="form-control" id="name" placeholder="Your Name">
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4">
-							<button type="submit" class="btn btn-default btn-block">Subscribe</button>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<footer id="gtco-footer" role="contentinfo">
 		<div class="gtco-container">
@@ -333,6 +301,7 @@
 							<li><a href="#">Press</a></li>
 							<li><a href="#">Terms of services</a></li>
 							<li><a href="#">Privacy Policy</a></li>
+                            <li><a href="admin.php">Administrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -341,8 +310,8 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@gettemplates.co</a></li>
+							<li><a href="#"><i class="icon-phone"></i> +91 8264686566</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> HSONI.123442@GMAIL.COM</a></li>
 							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
 						</ul>
 					</div>

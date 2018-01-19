@@ -333,6 +333,7 @@
 							<li><a href="#">Press</a></li>
 							<li><a href="#">Terms of services</a></li>
 							<li><a href="#">Privacy Policy</a></li>
+                            <li><a href="admin.php">Administrator</a></li>
 						</ul>
 					</div>
 				</div>
@@ -341,8 +342,8 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@gettemplates.co</a></li>
+							<li><a href="#"><i class="icon-phone"></i> +91 8264686566</a></li>
+							<li><a href="#"><i class="icon-mail2"></i>HSONI.123442@GMAIL.COM</a></li>
 							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
 						</ul>
 					</div>
